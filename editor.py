@@ -10,7 +10,7 @@ from PySide6.QtGui import QPixmap
 from PySide6.QtWidgets import QDialog
 
 import functools
-import functions_ui
+
 
 from dialog import Ui_Dialog
 
